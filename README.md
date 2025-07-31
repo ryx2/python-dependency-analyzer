@@ -1,7 +1,7 @@
 # 🚀 Smart Test Runner
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python 3.7+">
+  <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.7+">
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-brightgreen" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/test%20framework-pytest-orange" alt="pytest">
   <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black">
